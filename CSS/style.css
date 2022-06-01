@@ -53,7 +53,7 @@ body{
 }
 .top-bar span{
   font-size: 18px;
-  margin-left: -3px;
+  padding-left: 100px;
   color: var(--lightblack);
 }
 .img-area{
