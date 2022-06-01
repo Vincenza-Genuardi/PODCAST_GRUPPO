@@ -1,40 +1,32 @@
 
 let allMusic = [
     {
-      name: "Harley Bird - Home",
-      artist: "Jordan Schor",
-      img: "music-1",
-      src: "music-1"
+      name: "ALL CAPS",
+      artist: "Llurn",
+      img: "ALL_CAPS",
+      src: "ALL_CAPS"
     },
+    
     {
-      name: "Ikson Anywhere – Ikson",
-      artist: "Audio Library",
-      img: "music-2",
-      src: "music-2"
+      name: "Enemy",
+      artist: "Imagen Dragons",
+      img: "Enemy",
+      src: "Enemy"
     },
+
     {
-      name: "Beauz & Jvna - Crazy",
-      artist: "Beauz & Jvna",
-      img: "music-3",
-      src: "music-3"
-    },
+        name: "burn it all down",
+        artist: "League of legends",
+        img: "burn_it_all_down",
+        src: "burn_it_all_down"
+      }, 
+
     {
-      name: "Hardwind - Want Me",
-      artist: "Mike Archangelo",
-      img: "music-4",
-      src: "music-4"
-    },
-    {
-      name: "Jim - Sun Goes Down",
-      artist: "Jim Yosef x Roy",
-      img: "music-5",
-      src: "music-5"
-    },
-    {
-      name: "Lost Sky - Vision NCS",
-      artist: "NCS Release",
-      img: "music-6",
-      src: "music-6"
-    },
+      name: "sweet home chicago",
+      artist: "Blues brothers",
+      img: "sweet_home_chicago",
+      src: "sweet_home_chicago"
+    }
+    
    
   ];
